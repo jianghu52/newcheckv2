@@ -1,0 +1,6 @@
+name: v2check
+version: 1
+cron:
+- description: cron_test_v2
+  url: /
+  schedule: "0 13 * * *"
